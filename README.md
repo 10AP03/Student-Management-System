@@ -34,3 +34,14 @@ Practiced CRUD operations in Python
 Worked with JSON for file handling
 
 Organized code into modules for maintainability
+
+
+Example Run
+=== Student Management System ===
+1. Add Student
+2. View Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Count Students
+7. Exit
